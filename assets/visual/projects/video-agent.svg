@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="164" viewBox="0 0 720 164" role="img" aria-label="视频内容提取 Agent">
+  <rect width="720" height="164" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="162" rx="13" fill="none" stroke="#2a3a34"/>
+  <rect x="0" y="22" width="4" height="120" fill="#3dbe8c"/>
+  <text x="28" y="38" fill="#e7f2ec" font-family="ui-monospace, monospace" font-size="20">视频内容提取 Agent</text>
+  <text x="28" y="62" fill="#3dbe8c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">2026.06 · 多模态 · 独立开发</text>
+  <text x="28" y="92" fill="#c5d7ce" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Whisper 完成视频音频转写，GLM / DeepSeek 做解析、浓缩与实体抽取</text>
+  <text x="28" y="116" fill="#c5d7ce" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Prompt 约束输出，稳定生成 Markdown 结构化摘要</text>
+  <text x="28" y="140" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">uv 管理依赖 · MySQL 存素材与结果 · 可本地部署</text>
+</svg>

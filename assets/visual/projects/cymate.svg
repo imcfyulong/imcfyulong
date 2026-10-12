@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="132" viewBox="0 0 720 132" role="img" aria-label="Cymate-CrewAIWithRag">
-  <rect width="720" height="132" rx="14" fill="#141c19"/>
-  <rect x="1" y="1" width="718" height="130" rx="13" fill="none" stroke="#2a3a34"/>
-  <rect x="0" y="18" width="4" height="96" fill="#3dbe8c"/>
-  <text x="28" y="40" fill="#e7f2ec" font-family="ui-monospace, monospace" font-size="20">Cymate-CrewAIWithRag</text>
-  <text x="28" y="66" fill="#d7a15a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">CrewAI · RAG · 身心健康助手</text>
-  <text x="28" y="94" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">四 Agent 顺序协作：检索、心理建议、记忆整合、PDF 报告。</text>
-  <text x="28" y="114" fill="#5f786e" font-family="ui-monospace, monospace" font-size="12">Python  ·  Streamlit / FastAPI</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="188" viewBox="0 0 720 188" role="img" aria-label="Cymate-CrewAIWithRag 多智能体与 RAG">
+  <rect width="720" height="188" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="186" rx="13" fill="none" stroke="#2a3a34"/>
+  <rect x="0" y="22" width="4" height="144" fill="#3dbe8c"/>
+  <text x="28" y="38" fill="#e7f2ec" font-family="ui-monospace, monospace" font-size="20">Cymate-CrewAIWithRag</text>
+  <text x="28" y="62" fill="#3dbe8c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">AI 应用 · 多智能体 · RAG</text>
+  <text x="28" y="92" fill="#c5d7ce" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">4 Agent 顺序流水线：档案检索 → 心理建议 → 记忆整合 → 报告生成</text>
+  <text x="28" y="116" fill="#c5d7ce" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">YAML 声明式配置 · 主导 CrewAI 0.55 到 1.x 升级与 API 适配</text>
+  <text x="28" y="140" fill="#c5d7ce" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">ChromaDB 三向量库 · Doubao Embedding · 会话 / 患者双轨记忆</text>
+  <text x="28" y="164" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">FastAPI OpenAI 兼容接口 · Streamlit 双角色 UI · 高危话题硬拦截</text>
 </svg>

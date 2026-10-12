@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="168" viewBox="0 0 720 168" role="img" aria-label="研究方向">
-  <rect width="720" height="168" rx="14" fill="#141c19"/>
-  <rect x="1" y="1" width="718" height="166" rx="13" fill="none" stroke="#2a3a34"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="196" viewBox="0 0 720 196" role="img" aria-label="研究方向：多智能体、RAG、多模态、安全测试">
+  <rect width="720" height="196" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="194" rx="13" fill="none" stroke="#2a3a34"/>
   <g font-family="ui-sans-serif, system-ui, sans-serif">
-    <text x="28" y="42" fill="#3dbe8c" font-size="13" letter-spacing="1">01</text>
-    <text x="64" y="42" fill="#e7f2ec" font-size="16">移动安全测试</text>
-    <text x="64" y="66" fill="#8aa399" font-size="13">把 APK 解包、反编译、组件分析和报告串成一条工作流</text>
-    <text x="28" y="104" fill="#3dbe8c" font-size="13" letter-spacing="1">02</text>
-    <text x="64" y="104" fill="#e7f2ec" font-size="16">网络探测工具</text>
-    <text x="64" y="128" fill="#8aa399" font-size="13">用 Python 复刻常用扫描能力，做成可本地运行的小工具</text>
-    <text x="400" y="42" fill="#d7a15a" font-size="13" letter-spacing="1">03</text>
-    <text x="436" y="42" fill="#e7f2ec" font-size="16">多智能体应用</text>
-    <text x="436" y="66" fill="#8aa399" font-size="13">CrewAI 编排 + RAG，带角色边界和报告输出</text>
+    <text x="28" y="40" fill="#3dbe8c" font-size="13">01</text>
+    <text x="60" y="40" fill="#e7f2ec" font-size="16">多智能体编排</text>
+    <text x="60" y="62" fill="#8aa399" font-size="13">CrewAI 顺序流水线，YAML 声明 Agent 与任务</text>
+    <text x="380" y="40" fill="#3dbe8c" font-size="13">02</text>
+    <text x="412" y="40" fill="#e7f2ec" font-size="16">RAG 与长期记忆</text>
+    <text x="412" y="62" fill="#8aa399" font-size="13">多向量库检索，会话与患者双轨召回</text>
+    <text x="28" y="112" fill="#d7a15a" font-size="13">03</text>
+    <text x="60" y="112" fill="#e7f2ec" font-size="16">多模态内容理解</text>
+    <text x="60" y="134" fill="#8aa399" font-size="13">语音转写，再用大模型做浓缩与实体抽取</text>
+    <text x="380" y="112" fill="#d7a15a" font-size="13">04</text>
+    <text x="412" y="112" fill="#e7f2ec" font-size="16">安全测试工具</text>
+    <text x="412" y="134" fill="#8aa399" font-size="13">Android 测试工作流，以及网络探测与拓扑</text>
+    <text x="28" y="172" fill="#5f786e" font-size="13">安全测试只用于授权测试、防御研究和学习。</text>
   </g>
 </svg>

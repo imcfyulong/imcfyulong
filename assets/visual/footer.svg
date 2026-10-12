@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="88" viewBox="0 0 720 88" role="img" aria-label="查看全部公开仓库">
   <rect width="720" height="88" rx="14" fill="#10201a"/>
   <rect x="1" y="1" width="718" height="86" rx="13" fill="none" stroke="#3dbe8c"/>
-  <text x="28" y="40" fill="#e7f2ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">安全测试与自动化工具，只用于授权测试、防御研究和学习。</text>
+  <text x="28" y="40" fill="#e7f2ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">多智能体、RAG、多模态应用，以及授权范围内的安全测试工具。</text>
   <text x="28" y="66" fill="#3dbe8c" font-family="ui-monospace, monospace" font-size="13">查看全部仓库  →  github.com/imcfyulong</text>
 </svg>
