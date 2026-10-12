@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Soren / imcfyulong — AI 应用开发，也做安全测试工具" width="960" />
+  <img src="assets/banner.svg" alt="Soren / imcfyulong — AI 应用开发&amp;安全测试工具" width="960" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 ## Soren / imcfyulong
 
-AI 应用开发，也做安全测试工具。方向是多智能体编排、RAG、多模态解析，以及 Android 安全测试和网络探测。
+AI 应用开发&amp;安全测试工具。方向是多智能体编排、RAG、多模态解析，以及 Android 安全测试和网络探测。
 
 ### 研究方向
 

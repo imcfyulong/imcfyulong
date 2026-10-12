@@ -3,7 +3,7 @@
   <rect x="1" y="1" width="958" height="218" rx="17" fill="none" stroke="#2a3a34"/>
   <rect x="0" y="0" width="8" height="220" fill="#3dbe8c"/>
   <text x="48" y="72" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" letter-spacing="3">SOREN · IMCFYULONG</text>
-  <text x="48" y="118" fill="#e7f2ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32" font-weight="650">AI 应用开发，也做安全测试工具</text>
+  <text x="48" y="118" fill="#e7f2ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32" font-weight="650">AI 应用开发&amp;安全测试工具</text>
   <text x="48" y="156" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">多智能体 · RAG · 多模态解析    ·    Android 安全测试 · 网络探测</text>
   <text x="48" y="190" fill="#3dbe8c" font-family="ui-monospace, monospace" font-size="13">github.com/imcfyulong</text>
 </svg>
