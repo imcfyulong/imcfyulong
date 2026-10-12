@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="132" viewBox="0 0 720 132" role="img" aria-label="pymap">
+  <rect width="720" height="132" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="130" rx="13" fill="none" stroke="#2a3a34"/>
+  <rect x="0" y="18" width="4" height="96" fill="#3dbe8c"/>
+  <text x="28" y="40" fill="#e7f2ec" font-family="ui-monospace, monospace" font-size="20">pymap</text>
+  <text x="28" y="66" fill="#d7a15a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Python · 网络探测</text>
+  <text x="28" y="94" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Nmap 部分功能的 Python 复刻，本地可运行的扫描小工具。</text>
+  <text x="28" y="114" fill="#5f786e" font-family="ui-monospace, monospace" font-size="12">Python  ·  1 star</text>
+</svg>

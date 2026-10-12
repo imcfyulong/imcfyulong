@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="72" viewBox="0 0 720 72" role="img" aria-label="代表项目">
+  <rect width="720" height="72" fill="#0c1210"/>
+  <rect x="0" y="34" width="28" height="3" fill="#3dbe8c"/>
+  <text x="40" y="42" fill="#e7f2ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="650">代表项目</text>
+  <text x="250" y="42" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Selected work</text>
+</svg>

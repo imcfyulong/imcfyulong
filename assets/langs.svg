@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="88" viewBox="0 0 720 88" role="img" aria-label="公开自有仓库主要语言 Python">
+  <rect width="720" height="88" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="86" rx="13" fill="none" stroke="#2a3a34"/>
+  <text x="28" y="32" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">自有公开仓库主要语言</text>
+  <rect x="28" y="48" width="664" height="14" rx="7" fill="#1c2a24"/>
+  <rect x="28" y="48" width="664" height="14" rx="7" fill="#3dbe8c"/>
+  <text x="28" y="80" fill="#e7f2ec" font-family="ui-monospace, monospace" font-size="12">Python — Android-pentest-mcp · pymap · Cymate-CrewAIWithRag</text>
+</svg>

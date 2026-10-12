@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="148" viewBox="0 0 720 148" role="img" aria-label="公开可见的能力">
+  <rect width="720" height="148" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="146" rx="13" fill="none" stroke="#2a3a34"/>
+  <text x="28" y="36" fill="#8aa399" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Python · MCP · Agent · Web</text>
+  <g font-family="ui-monospace, monospace" font-size="13">
+    <rect x="28" y="56" width="92" height="28" rx="6" fill="#1c2a24"/><text x="42" y="75" fill="#3dbe8c">Python</text>
+    <rect x="130" y="56" width="72" height="28" rx="6" fill="#1c2a24"/><text x="144" y="75" fill="#e7f2ec">MCP</text>
+    <rect x="212" y="56" width="96" height="28" rx="6" fill="#1c2a24"/><text x="226" y="75" fill="#e7f2ec">CrewAI</text>
+    <rect x="318" y="56" width="70" height="28" rx="6" fill="#1c2a24"/><text x="332" y="75" fill="#e7f2ec">RAG</text>
+    <rect x="398" y="56" width="110" height="28" rx="6" fill="#1c2a24"/><text x="412" y="75" fill="#e7f2ec">Streamlit</text>
+    <rect x="518" y="56" width="100" height="28" rx="6" fill="#1c2a24"/><text x="532" y="75" fill="#e7f2ec">FastAPI</text>
+    <rect x="28" y="96" width="150" height="28" rx="6" fill="#1c2a24"/><text x="42" y="115" fill="#d7a15a">Android pentest</text>
+    <rect x="188" y="96" width="88" height="28" rx="6" fill="#1c2a24"/><text x="202" y="115" fill="#e7f2ec">Linux</text>
+  </g>
+</svg>

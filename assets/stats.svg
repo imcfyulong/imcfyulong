@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img" aria-label="公开仓库数据 2026-10-12">
+  <rect width="720" height="120" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="118" rx="13" fill="none" stroke="#2a3a34"/>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" text-anchor="middle">
+    <text x="90" y="52" fill="#e7f2ec" font-size="28">4</text><text x="90" y="78" fill="#8aa399" font-size="12">公开仓库</text>
+    <text x="250" y="52" fill="#e7f2ec" font-size="28">10</text><text x="250" y="78" fill="#8aa399" font-size="12">Stars</text>
+    <text x="410" y="52" fill="#e7f2ec" font-size="28">1</text><text x="410" y="78" fill="#8aa399" font-size="12">Fork</text>
+    <text x="570" y="52" fill="#e7f2ec" font-size="28">1</text><text x="570" y="78" fill="#8aa399" font-size="12">Follower</text>
+  </g>
+</svg>

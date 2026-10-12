@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="132" viewBox="0 0 720 132" role="img" aria-label="公开仓库最近更新">
+  <rect width="720" height="132" rx="14" fill="#141c19"/>
+  <rect x="1" y="1" width="718" height="130" rx="13" fill="none" stroke="#2a3a34"/>
+  <g font-family="ui-monospace, monospace" font-size="13">
+    <text x="28" y="36" fill="#3dbe8c">2026-09-19</text><text x="140" y="36" fill="#e7f2ec">Android-pentest-mcp</text><text x="360" y="36" fill="#8aa399">仓库更新</text>
+    <text x="28" y="64" fill="#3dbe8c">2026-07-27</text><text x="140" y="64" fill="#e7f2ec">Cymate-CrewAIWithRag</text><text x="360" y="64" fill="#8aa399">创建并推送</text>
+    <text x="28" y="92" fill="#3dbe8c">2026-06-16</text><text x="140" y="92" fill="#e7f2ec">Android-pentest-mcp</text><text x="360" y="92" fill="#8aa399">首次推送</text>
+  </g>
+</svg>
